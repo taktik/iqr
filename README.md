@@ -1,2 +1,3 @@
-# lerna-typescript-cra-uilib-starter
-Starter for Monorepos: Lerna, TypeScript, CRA and Storybook
+# iCure components
+
+iCure gui and backend components
