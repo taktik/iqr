@@ -1,12 +1,12 @@
 {
-  "name": "lerna-typescript-cra-uilib-starter",
-  "version": "1.0.0",
-  "description": "Starter for Monorepos: Lerna, TypeScript, CRA and Storybook",
+  "name": "iqr",
+  "version": "0.1.0",
+  "description": "A collection of components for iCure platform",
   "main": "index.js",
-  "repository": "https://github.com/shnydercom/lerna-typescript-cra-uilib-starter.git",
-  "author": "shnyder.com",
-  "license": "MIT",
-  "private": true,
+  "repository": "@taktik/iqr",
+  "author": "Antoine Duchâteau",
+  "license": "GPL-3.0-or-later",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
